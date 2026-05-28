@@ -9,6 +9,7 @@ draft: false
 ---
 
 2026年6月18日起，Gemini CLI将全面停止服务...
+
 https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/
 ![alt text](image.png)
 
@@ -20,5 +21,7 @@ https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-t
 鹿们望向远方，OpenAI 的大门紧锁，Anthropic 的藤蔓带刺，而曾经最为慷慨的谷歌，如今也收回了他的方舟
 
 起初，失去了学生认证的pro的我不以为然
+
 如今，cli没了，意味着哈基米的白嫖传说要结束了么...
+
 或许是最后一舞了，且用且珍惜...
