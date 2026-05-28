@@ -3,7 +3,7 @@ title: Nginx学习笔记
 published: 2026-05-27
 description: 整理好nginx部署配置笔记
 image: " "
-tags: [Nginx]
+tags: [Nginx,linux]
 category: 学习笔记
 draft: false
 ---

@@ -4,7 +4,7 @@ published: 2026-05-28
 description: 一些基本的开荒配置
 image: " "
 tags: [linux]
-category: linux命令
+category: 学习笔记
 draft: false
 ---
 
