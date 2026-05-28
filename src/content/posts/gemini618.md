@@ -4,7 +4,7 @@ published: 2026-05-22
 description: 618开始Gemini CLI将全面停止服务
 image: ./airp.png
 tags: [日常,Ai,AIRP]
-category: Ai
+category: 日常
 draft: false
 ---
 

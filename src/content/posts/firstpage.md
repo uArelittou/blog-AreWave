@@ -4,7 +4,7 @@ published: 2026-05-21
 description: 欢迎来到 Arewave~
 image: " "
 tags: [日常]
-category: 欢迎来到Arewave ~ 
+category: 日常
 draft: false
 ---
 
