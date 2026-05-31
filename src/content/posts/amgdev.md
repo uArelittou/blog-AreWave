@@ -3,7 +3,7 @@ title: 之前开发的一个本地动画管理工具
 published: 2026-05-25
 description: 一个本地动画管理工具
 image: " "
-tags: [项目,开发]
+tags: [开发,python]
 category: 项目开发
 draft: false
 ---
