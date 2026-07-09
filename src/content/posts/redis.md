@@ -1,7 +1,7 @@
 ---
-title: redis基本命令
+title: redis基础
 published: 2026-07-01
-description: redis
+description: redis的基础使用及其基本配置和命令
 image: " "
 tags: [linux,redis,docker]
 category: 学习笔记
