@@ -19,7 +19,7 @@ Prometheus 是一款开源的云原生监控系统，整个监控体系由多个
 
 [Prometheus GitHub](https://github.com/prometheus)
 
-![Prometheus下载页面](image-20260707142935664.png)
+![Prometheus下载页面](pictures/image-20260707142935664.png)
 
 ## Prometheus 安装
 
@@ -251,11 +251,11 @@ sudo systemctl status grafana-server
 
 登录后可以在 Profile 里修改界面语言：
 
-![Grafana语言设置](image-20260712164130211.png)
+![Grafana语言设置](pictures/image-20260712164130211.png)
 
 来到"连接 → 数据源"，把 Prometheus 添加进去：
 
-![添加数据源](image-20260712164226316.png)
+![添加数据源](pictures/image-20260712164226316.png)
 
 填写 Prometheus 的 URL 地址并保存。
 
@@ -263,7 +263,7 @@ sudo systemctl status grafana-server
 
 去仪表盘页面新建或导入，可以到 [Grafana 官网仪表盘库](https://grafana.com/grafana/dashboards/) 找现成的模板：
 
-![导入仪表盘](image-20260712164839363.png)
+![导入仪表盘](pictures/image-20260712164839363.png)
 
 复制模板 ID 后回到 Grafana 导入，选择对应的 Prometheus 数据源即可。
 

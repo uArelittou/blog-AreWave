@@ -1,7 +1,7 @@
-﻿---
-title: 基于Docker自动部署与监控系统
+---
+title: AutoDeploy-基于Docker自动部署与监控系统
 published: 2026-07-19
-description: FastAPI + Nginx + Docker Compose 搭一套带 /metrics 的服务
+description: 从 FastAPI 服务容器化、Nginx 反向代理，到 GitHub Actions 自动部署、Prometheus 监控与 Alertmanager 告警的完整实践
 image: " "
 tags: [FastAPI,Nginx,Docker,CI/CD,Prometheus,Grafana,cAdvisor,Alertmanager]
 category: 学习笔记
@@ -798,7 +798,7 @@ Save & test
 
 然后我是导入别人的仪表盘的，id是 9621
 
-![image-20260723140309408](C:\Users\a1581\AppData\Roaming\Typora\typora-user-images\image-20260723140309408.png)
+![image-20260723140309408](pictures/image-20260723140309408.png)
 
 
 
@@ -1006,8 +1006,8 @@ http://localhost:9093/#/alerts
 
 
 
-![image-20260723175310968](C:\Users\a1581\AppData\Roaming\Typora\typora-user-images\image-20260723175310968.png)
+![image-20260723175310968](pictures/image-20260723175310968.png)
 
 回复后
 
-![image-20260723175700012](C:\Users\a1581\AppData\Roaming\Typora\typora-user-images\image-20260723175700012.png)
+![image-20260723175700012](pictures/image-20260723175700012.png)

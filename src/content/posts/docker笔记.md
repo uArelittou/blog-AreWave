@@ -2,7 +2,7 @@
 title: Docker学习笔记
 published: 2026-05-29
 description: 这次是docker喔~
-image: ./docker-brands-solid.png
+image: pictures/docker-brands-solid.png
 tags: [Docker,linux]
 category: 学习笔记
 draft: false
@@ -116,7 +116,7 @@ docker run	--network   < 网络名 >    应用
 
 **这是以配置环境变量来实现主从机同步的功能****
 
-![alt text](image-20260506172039483.png)
+![alt text](pictures/image-20260506172039483.png)
 
 ### 先去dockerhub里找到合适的镜像
 
@@ -160,11 +160,11 @@ sudo docker run -d -p 6380:6379 -v /qqq/rd2:/bitnami/redis/data \
 docker network create  <自定义网络名>
 ```
 
-![alt text](image-20260507165354033.png)
+![alt text](pictures/image-20260507165354033.png)
 
 **这里我的是：blog**
 
-![alt text](image-20260507164412019-1.png)
+![alt text](pictures/image-20260507164412019-1.png)
 
 ### 先是得写个compose的yaml文件
 
