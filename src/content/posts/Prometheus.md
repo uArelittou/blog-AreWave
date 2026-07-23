@@ -52,7 +52,7 @@ nohup /usr/local/prometheus/prometheus-3.13.0.linux-amd64/prometheus \
 
 ```bash
 vi /etc/systemd/system/prometheus.service
-```
+``` 
 
 写入以下内容：
 
