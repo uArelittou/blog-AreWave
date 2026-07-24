@@ -1011,3 +1011,8 @@ http://localhost:9093/#/alerts
 回复后
 
 ![image-20260723175700012](pictures/image-20260723175700012.png)
+
+
+## 项目涉及的源文件
+
+**GitHub仓库： https://github.com/uArelittou/AutoDeploy-demo**
