@@ -1,5 +1,5 @@
 ---
-title: AutoDeploy-基于Docker自动部署与监控系统
+title: AutoDeploy：基于 Docker 的 CICD 自动部署与服务监控系统
 published: 2026-07-19
 description: 从 FastAPI 服务容器化、Nginx 反向代理，到 GitHub Actions 自动部署、Prometheus 监控与 Alertmanager 告警的完整实践
 image: " "
